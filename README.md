@@ -4,7 +4,7 @@
 [link to the project](https://volksrat71.github.io/project-1/project-1/index.html)
 
 ## How To Use
-### User fills out the form with the information specific to them.  Once the form is filled out, the user can press "Load up bud" and the sit egenerates a fun roadtrip. 
+### User fills out the form with the information specific to them.  Once the form is filled out, the user can press "Load up bud" and the site generates a fun roadtrip. 
 
 ## Technologies Used
 * JQuery
